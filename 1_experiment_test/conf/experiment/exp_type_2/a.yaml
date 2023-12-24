@@ -1,0 +1,10 @@
+# @package _global_
+
+defaults:
+  - /config
+
+test:
+  name: type 2 - a 
+
+comments:
+  - Here is additional args
